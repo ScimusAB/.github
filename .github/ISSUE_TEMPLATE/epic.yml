@@ -1,0 +1,13 @@
+name: Epic
+description: Create a new epic
+title: "[Epic]: "
+type: Epic
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the epic
+      placeholder: What is this epic about?
+    validations:
+      required: true

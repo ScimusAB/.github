@@ -1,0 +1,13 @@
+name: Production Defect
+description: Report a defect in production
+title: "[Production Defect]: "
+type: Production Defect
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the production defect
+      placeholder: What is wrong in production?
+    validations:
+      required: true
