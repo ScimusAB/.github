@@ -1,7 +1,7 @@
 name: Task Change Request
 description: Request a change to an existing task
 title: "[Task Change Request]: "
-labels: ["task-change-request"]
+type: Task Change Request
 body:
   - type: textarea
     id: description

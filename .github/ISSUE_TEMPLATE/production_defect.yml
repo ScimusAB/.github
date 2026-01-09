@@ -1,7 +1,7 @@
 name: Production Defect
 description: Report a defect in production
 title: "[Production Defect]: "
-labels: ["production-defect"]
+type: Production Defect
 body:
   - type: textarea
     id: description

@@ -1,7 +1,7 @@
 name: Epic
 description: Create a new epic
 title: "[Epic]: "
-labels: ["epic"]
+type: Epic
 body:
   - type: textarea
     id: description

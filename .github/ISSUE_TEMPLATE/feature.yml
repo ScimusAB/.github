@@ -1,7 +1,7 @@
 name: Feature
 description: Request a new feature
 title: "[Feature]: "
-labels: ["feature"]
+type: Feature
 body:
   - type: textarea
     id: description
